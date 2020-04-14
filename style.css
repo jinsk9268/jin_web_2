@@ -1,0 +1,77 @@
+body {
+  /*background-color: rgba(149, 111, 170, 0.3);*/
+}
+
+.start_page {
+  height: 40px;
+}
+
+.start_page p {
+  text-align: right;
+  font-size: 20px;
+  background-color: rgb(88, 42, 114); 
+  color: rgb(249, 239, 255);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+
+#h1_1 {
+  padding-left: 5px;
+}
+
+.first {
+  background-color: rgba(249, 239, 255, 0.8);
+  line-height: 2em;
+  width: 100%;
+  height: 200px;
+}
+
+.first p {
+  padding-top: 17px;
+  padding-left: 5px  
+}
+
+#h1_2 {
+  padding-right: 5px;
+  text-align: right;
+}
+
+.second_1 {
+  background-color: rgba(249, 239, 255, 0.8);
+  line-height: 2em;
+  width: 100%;
+  height: 130px;
+  text-align: right;
+}
+
+.second_1 p {
+  padding-top: 15px;
+  padding-left: 5px;
+}
+
+
+.second_2 {
+  background-color: rgba(249, 239, 255, 0.8);
+  width: 100%;
+}
+
+table {
+  padding : 10px 10px 10px 10px;
+  border-spacing: 5px 10px;
+}
+
+img {
+  width: 150px;
+  
+}
+
+tr,td {
+  text-align: center;
+  width: 400px;
+  height : 200px; 
+  font-weight: bold;
+}
+
+  
+}
